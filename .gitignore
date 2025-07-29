@@ -137,3 +137,43 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# --- React Native Specific ---
+
+# Android
+android/.gradle/
+android/app/build/
+android/.idea/
+*.keystore
+
+# iOS
+ios/Pods/
+ios/DerivedData/
+ios/*.xcodeproj/
+ios/*.xcworkspace/
+
+# Expo
+.expo/
+.expo-shared/
+
+# Metro bundler cache
+.packager/
+.haste-cache/
+react-native-debugger/
+
+# Build artifacts
+*.apk
+*.aab
+*.ipa
+
+# Editor & IDE
+.vscode/
+.idea/
+*.iml
+
+# Misc
+*.swp
+*.swo
+*.db
+*.db-journal
+__tests__/
