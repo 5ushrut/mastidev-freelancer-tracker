@@ -33,9 +33,13 @@ Track your freelance projects, invoices, time logs, and payments — all in one 
 
 ## 📱 Preview
 
-> _Add a `screenshots/` folder or `preview.gif` here for visual impact_
+<img width="463" height="946" alt="MastiFreelancing Dashboard" src="https://github.com/user-attachments/assets/9277ce8e-b5f5-4432-aa76-1ddbf7e53e35" />
 
-![Preview](screenshots/app_preview.png)
+<img width="466" height="948" alt="MastiFreelancing Clients" src="https://github.com/user-attachments/assets/c6a4ac90-cb59-412c-961b-4da14146e7ce" />
+
+<img width="465" height="942" alt="MastiFreelancing Projects" src="https://github.com/user-attachments/assets/aa312509-8e03-472b-9605-de87e78c142f" />
+
+<img width="462" height="948" alt="MastiFreelancing Invoices" src="https://github.com/user-attachments/assets/d98ea092-4919-411e-8873-f765efa24acf" />
 
 ---
 
